@@ -4,5 +4,6 @@ I like to call my own.
 
 Let me count the ways.
 
-# the first reason
-# The second reason
+1. The first reason
+2. The second reason
+3. The third reason
